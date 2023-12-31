@@ -215,8 +215,7 @@ hr {
   }
 }
 
-@media (max-width: 720px) {
+
   .hero-title {
     margin-top: 13px;
   }
-}
