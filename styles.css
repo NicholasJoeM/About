@@ -207,16 +207,16 @@ hr {
   .text {
     font-size: 1.6rem;
   } 
-
-  .hero-img {
-    margin-top: 13px;
-    margin-bottom: 13px;
-  }
 }
 
 @media only screen and (max-width: 420px) {
   .hero-title {
     font-size: 4.5rem;
+  }
+}
+
+@media (max-width: 720px) {
+  .hero-title {
     margin-top: 13px;
   }
 }
