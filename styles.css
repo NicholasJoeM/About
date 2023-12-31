@@ -81,6 +81,7 @@ hr {
   text-align: center;
   color: orange;
   font-size: 7.95rem;
+  /* margin-top: 13px; */
 }
 
 .hero-subtitle {
@@ -206,6 +207,11 @@ hr {
   .text {
     font-size: 1.6rem;
   } 
+
+  .hero-img {
+    margin-top: 13px;
+    margin-bottom: 13px;
+  }
 }
 
 @media only screen and (max-width: 420px) {
